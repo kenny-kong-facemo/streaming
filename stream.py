@@ -1,3 +1,9 @@
+'''
+;==========================================
+; Title:  Webcam streaming
+; Author: Unkown
+;==========================================
+'''
 import time
 import threading
 #try:
